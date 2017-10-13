@@ -14,11 +14,11 @@ def superimpose(path,name):
     var=random.randint(0, 11)
     draw=ImageDraw.Draw(image)
 
-    text=module.fest[name][var-1][0][0]
+    text=module.fest[name][var-2][0][0]
    
-    text1=module.fest[name][var-1][1][0]
-    text2=module.fest[name][var-1][2][0]
-    text3=module.fest[name][var-1][3][0]
+    text1=module.fest[name][var-2][1][0]
+    text2=module.fest[name][var-2][2][0]
+    text3=module.fest[name][var-2][3][0]
 
     font = ImageFont.truetype("/usr/share/fonts/truetype/freefont/FreeSans.ttf", 20)
 
