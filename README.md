@@ -24,7 +24,7 @@ Currently, our project covers three festivals:
  
  ![alt text](input.png "Input")
  
- 2. Specify the path of the content image
+ 2. Save the content image in the repository and specify the path of the content image
  
  3. Input the name of the festival accordingly- diwali, halloween, valentine
  
