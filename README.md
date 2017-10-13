@@ -8,6 +8,7 @@ Currently, our project covers three festivals:
   3. Valentines day
   
   BU*PREREQUISITES:
+  
     1. tensorflow
     
     2. numpy
@@ -29,9 +30,11 @@ Currently, our project covers three festivals:
  FOR VALENTINES DAY:
 
  INPUT:
+ 
  ![alt text](paris.jpg "Input image")
  
- OUTPUT:!
+ OUTPUT:
+ 
  ![alt text](V_CARD.jpg "Output Image")
  
  
