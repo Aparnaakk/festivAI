@@ -1,5 +1,6 @@
 # festivAI
-Customized and Personal greeting cards using artificial intelligence and augmented reality
+Customized and Personal greeting cards using artificial intelligence and augmented reality.
+
 Currently, our project covers three festivals:
   1. Diwali
   
