@@ -7,6 +7,7 @@ import importlib
 
 
 def superimpose(path,name):
+    print("Generating text")
     module = importlib.import_module('text', package=None)
     image=Image.open(path)
     w,h=image.size
