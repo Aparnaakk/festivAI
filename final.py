@@ -179,8 +179,9 @@ mixed_image = sess.run(graph['input'])
 if not os.path.exists(output_dir):
     os.mkdir(output_dir)
 
-filename = 'output/%d.jpg' % (it)
+filename = 'output.jpg'
 output(filename, mixed_image)
 
 def out():
-    return "./output/900.jpg"
+    print("Cover page made!")
+    return "./output.jpg"
