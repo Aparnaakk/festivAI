@@ -20,13 +20,17 @@ Currently, our project covers three festivals:
   
  To run Festiv.AI:
  
- 1. Download the repository run the main.py
+ 1. Download the repository
+ 
+ 2. Download the VGG16 weights from https://drive.google.com/open?id=0B3s6MjhdBGh_VFZtVDFSSzNDYmc and save it in the repository
+ 
+ 3. Run the main.py
  
  ![alt text](input.png "Input")
  
- 2. Save the content image in the repository and specify the path of the content image
+ 4. Save the content image in the repository and specify the path of the content image
  
- 3. Input the name of the festival accordingly- diwali, halloween, valentine
+ 5. Input the name of the festival accordingly- diwali, halloween, valentine
  
  FOR VALENTINES DAY:
 
