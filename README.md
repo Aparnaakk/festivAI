@@ -15,7 +15,7 @@ Currently, our project covers three festivals:
  To run Festiv.AI:
  1. download the repository run the main.py
  
- ![alt text](input.jpg "Input")
+ ![alt text](input.png "Input")
  
  2. specify the path of the content image
  3. input the name of the festival accordingly- diwali, halloween, valentine
@@ -26,7 +26,7 @@ Currently, our project covers three festivals:
  ![alt text](paris.jpg "Input image")
  
  OUTPUT:!
- [alt text](style_images/V_CARD.jpg "Output Image")
+ [alt text](V_CARD.jpg "Output Image")
  
  
  
