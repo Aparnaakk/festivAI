@@ -3,29 +3,30 @@ Customized and Personal greeting cards using artificial intelligence and augment
 Currently, our project covers three festivals:
   1. Diwali
   
-  2. halloween 
+  2. Halloween 
   
   3. Valentines day
   
-  BU*PREREQUISITES:
+  PREREQUISITES:
   
-    1. tensorflow
+    1. Tensorflow
     
-    2. numpy
+    2. Numpy
     
-    3. scipy
+    3. Scipy
     
-    4. pandas
+    4. Pandas
   
   
  To run Festiv.AI:
- 1. download the repository run the main.py
+ 
+ 1. Download the repository run the main.py
  
  ![alt text](input.png "Input")
  
- 2. specify the path of the content image
+ 2. Specify the path of the content image
  
- 3. input the name of the festival accordingly- diwali, halloween, valentine
+ 3. Input the name of the festival accordingly- diwali, halloween, valentine
  
  FOR VALENTINES DAY:
 
