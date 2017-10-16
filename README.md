@@ -33,7 +33,7 @@ Currently, our project covers three festivals:
  
  5. Input the name of the festival accordingly- diwali, halloween, valentine
  
- FOR VALENTINES DAY:
+ for example:FOR VALENTINES DAY:
 
  INPUT:
  
